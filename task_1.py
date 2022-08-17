@@ -1,7 +1,6 @@
 '''
 Функция реализует генератор геометрической прогрессии и значение stop (до какого числа генерировать)
 '''
-
 def generator(value, denominator,stop):
     value = int(value)
     denominator = int(denominator)
